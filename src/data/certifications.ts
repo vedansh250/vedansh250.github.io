@@ -9,7 +9,7 @@ export type Certification = {
 
 export const certifications: Certification[] = [
   { id: 'dop', name: 'Cloud DevOps Engineering Course with AI (CDEC) ', tag: 'AWS · Professional', icon: 'devops', url: '' },// Add your CDEC certification here
-  { id: 'saa', name: 'AWS Certified Solutions Architect Associate', tag: 'AWS · Associate', icon: 'cloud',url: './certs/SAA.pdf' },
+  { id: 'saa', name: 'AWS Certified Solutions Architect Associate', tag: 'AWS · Associate', icon: 'cloud',url: './certs/aws.pdf' },
   { id: 'py', name: 'Python Programming Certified', tag: 'Python', icon: 'python', url: './certs/Python.pdf' },
   { id: 'da', name: 'Professional Data Analytics Certification', tag: 'Data Analytics', icon: 'data', url: './certs/DAC.pdf' },
 ]
